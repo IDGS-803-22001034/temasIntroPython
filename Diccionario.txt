@@ -1,0 +1,12 @@
+
+Hola:Hi
+Escuela:School
+Luz:Light
+Cara:Face
+Mano:Hand
+Bicicleta:Bike
+Reloj:Clock
+Mesa:Table
+Rojo:Red
+Papel:Paper
+Azul:Blue
